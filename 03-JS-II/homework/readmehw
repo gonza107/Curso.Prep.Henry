@@ -1,0 +1,12 @@
+# Homework: Javascript II
+
+Explicaciones:
+
+* "for"
+Es un bucle que sirve para realizar tareas o funciones repetitivas.
+
+Operadores lógicos:
+
+&& = Y (and) evalua ambas expresiones a && b. Devolverá true si ambas expresiones son verdadero, si uno o ambos son false devolvera falso.
+|| = Or determinará si una o ambas expresiones son true (verdadero). Devolverá true si una o ambas expresiones son verdadero. Devolverá false (falso) si ambas expresiones son falsas.
+! = NOT (no) Negación.  
